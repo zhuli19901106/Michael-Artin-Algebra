@@ -16,5 +16,13 @@
 
 [Chapter-1-M.8_2.jpg](./Problem%20Set%201/Chapter-1-M.8_2.jpg)
 
+[Chapter-2-4.11_1.jpg](./Problem%20Set%201/Chapter-2-4.11_1.jpg)
+
+[Chapter-2-4.11_2.jpg](./Problem%20Set%201/Chapter-2-4.11_2.jpg)
+
+[Chapter-2-4.8_1.jpg](./Problem%20Set%201/Chapter-2-4.8_1.jpg)
+
+[Chapter-2-4.8_2.jpg](./Problem%20Set%201/Chapter-2-4.8_2.jpg)
+
 ---
 
