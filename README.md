@@ -19,3 +19,5 @@ FYI, the MIT OCW links are here:
 
 1. [Algebra I](http://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/)
 2. [Algebra II](http://ocw.mit.edu/courses/mathematics/18-702-algebra-ii-spring-2011/)
+
+Good news, there're lecture videos available from Harvard Open Course, link is [here](http://www.extension.harvard.edu/open-learning-initiative/abstract-algebra).
